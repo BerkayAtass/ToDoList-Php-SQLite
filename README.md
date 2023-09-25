@@ -3,6 +3,8 @@ A project made using PHP and SQLite
 
 This project uses SQLite for the database and uses PHP to process the data. You can access the version of the same project with only HTML, CSS and JS codes using LocalStorage from my profile or from the link below.
 
+https://github.com/BerkayAtass/To-Do-List-App
+
 Features
 
 You can add new to do
