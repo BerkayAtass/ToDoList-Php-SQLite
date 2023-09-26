@@ -5,6 +5,14 @@ This project uses SQLite for the database and uses PHP to process the data. You 
 
 https://github.com/BerkayAtass/To-Do-List-App
 
+Activating SQLite functions for XAMPP
+
+I used XAMPP while preparing this project. SQLite functions are disabled in XAMPP. To activate these, we need to edit the ";extension=sqlite3" section in the php.ini file as "extension=sqlite3" and save the text document. To turn off the feature, just put "; (semicolon)" in front of it again. If you are using another program for the server rather than XAMPP, you can get help from Google to enable the SQLite feature.
+
+![Screenshot_107](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/23405af6-cef9-4dbf-8310-a3310e708bf6)
+
+![Screenshot_108](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/ab6f1877-1188-41d6-9e32-7338bd67721b)
+
 Features
 
 (NEW!) 
