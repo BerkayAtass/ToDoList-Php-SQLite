@@ -7,12 +7,20 @@ https://github.com/BerkayAtass/To-Do-List-App
 
 Features
 
+(NEW!) 
+You can create a new user. Separate todo tables are created for each user created. When creating a user, the same email can only be used once and passwords are hashed and kept.
+
+![Screenshot_100](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/65959775-6886-4f0c-a3ec-c5cc821e0347)
+
+![Screenshot_101](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/5c57df84-0bcd-4011-9752-4279f21bf724)
+
 You can add new to do
 
-![Screenshot_62](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/22177a5f-ce5d-44b6-9471-0cb254881d8d)
+![Screenshot_102](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/0e15ee1e-e9e0-4ae7-9eb3-f2d15498e5f3)
+
+![Screenshot_103](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/43571c9a-a147-471d-a14f-28f91bc2b7f4)
 
 You can edit and delete a to do
-
 
 ![Screenshot_63](https://github.com/BerkayAtass/ToDoList-Php-SQLite/assets/74881380/e42037f0-fc03-4433-aaaa-20a029462b4a)
 
